@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hoax</string>
+    <string name="facebook_app_id">2407110192872669</string>
+    <string name="fb_login_protocol_scheme">fb2407110192872669</string>
+    <string name="cancel_login">cancel_login</string>
+    <string name="error_login">error_login</string>
+</resources>
